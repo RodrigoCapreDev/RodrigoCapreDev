@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Rodrigo Capre 👋
+Information Systems Engineering student @ UTN · Buenos Aires, AR
 
-<!--
-**RodrigoCapreDev/RodrigoCapreDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack developer focused on building real, complete products — from REST APIs to cloud deployments.  
+Currently finishing my degree and looking for my first corporate role in tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech stack
+`Python · Django` `JavaScript · React` `C# · .NET` `PostgreSQL · MySQL` `Docker` `Azure · AWS Lambda` `Linux · Git`
+
+---
+
+### 🚀 Featured projects
+
+**Stock & Catalog Management System**  
+Admin panel + public catalog with real-time sync. Deployed on Azure with Docker.  
+`React` `Django REST` `PostgreSQL` `Docker` `Azure`
+
+**QuickSolutions — Service Management App (UTN)**  
+Serverless architecture with state machine for service requests + automated email notifications via AWS Lambda.  
+`React` `Django REST` `Supabase` `AWS Lambda`
